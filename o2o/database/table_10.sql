@@ -1,0 +1,1 @@
+SELECT * FROM o2o.tb_area;
